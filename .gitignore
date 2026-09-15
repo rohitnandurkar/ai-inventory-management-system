@@ -1,0 +1,31 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Project credentials
+01 LOGIN DETAILS & PROJECT INFO.txt
+DATABASE FILE/01 LOGIN DETAILS & PROJECT INFO.txt
+
+# Temporary files
+*.tmp
+*.temp
